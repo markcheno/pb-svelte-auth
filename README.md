@@ -1,4 +1,8 @@
-# https://www.youtube.com/watch?v=AxPB3e-3yEM
+## Updated from: https://www.youtube.com/watch?v=AxPB3e-3yEM
+
+- Copy `.env.example` to `.env` and update `PUBLIC_POCKETBASE_URL` to the public url of your PocketBase server 
+- npm install
+- npm run dev
 
 # create-svelte
 
